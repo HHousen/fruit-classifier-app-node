@@ -1,0 +1,4 @@
+zerorpc
+https://download.pytorch.org/whl/cpu/torch-1.0.0-cp37-cp37m-linux_x86_64.whl
+torch_nightly
+fastai
