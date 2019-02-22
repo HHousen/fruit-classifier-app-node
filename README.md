@@ -1,4 +1,4 @@
-# fruit-classifier-app-flask
+# fruit-classifier-app-node
 
 > A simple web app to classify fruits using the fastai library. Built with NodeJS with a Python layer for the model. Includes an extremely basic front-end built with Pug.
 
