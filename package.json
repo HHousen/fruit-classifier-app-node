@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A simple fruit classifier using node.js, python, and fastai.",
   "main": "server.js",
+  "engines": {
+    "node": "8.11.4"
+  },
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
